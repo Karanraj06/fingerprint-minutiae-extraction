@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Mark the README file as a documentation file
+# This will ensure that the README file is displayed more prominently in GitHub
+*.md documentation
